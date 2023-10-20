@@ -1,0 +1,99 @@
+html{
+    font-family: montserrat;
+    color:rgb(117, 102, 84)
+}
+
+body {
+    font-family: montserrat;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: rgb(241, 223, 198);
+}
+
+.main-title{
+    font-size: 3rem;
+    margin-right: auto; /* Add space between h1 and the rest of the header */
+    margin-left: 20px;
+    line-height: 0;
+}
+
+header {
+    background-color: rgb(145, 129, 109);
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+    display: flex;
+    justify-content: center; /* Center the navigation and image horizontally */
+    align-items: center; /* Center vertically */
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin: 0 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+section {
+    padding: 2rem;
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+.description{
+    text-align: center;
+}
+
+#title-container{
+    text-align: center;
+    overflow: hidden;
+    height: 100px;
+}
+
+#animated-title{
+    font-size: 3.5rem;
+}
+
+.social-media {
+    text-align: center;
+    margin: 20px;
+}
+
+.social-media a {
+    font-size: 24px;
+    margin: 0 10px;
+    text-decoration: none;
+    color: #333; /* Change the color to match your design */
+}
+
+.about-description-section{
+    margin-right: 500px;
+}
+
+.about-description{
+    text-align: left;
+    color: rgb(33, 31, 28)
+}
+
+footer {
+    background-color:rgb(145, 129, 109);
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+    margin-top: auto;
+}
+
