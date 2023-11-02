@@ -10,7 +10,11 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
+<<<<<<< HEAD
     background-color:#c9b5aa;
+=======
+    background-color: rgb(211, 200, 186);
+>>>>>>> f7c5592f08cf76dbd3fda7e9dab93bfe9314b9b4
 }
 
 .main-title{
@@ -21,7 +25,11 @@ body {
 }
 
 header {
+<<<<<<< HEAD
     background-color:#816d63;
+=======
+    background-color: rgb(143, 132, 118);
+>>>>>>> f7c5592f08cf76dbd3fda7e9dab93bfe9314b9b4
     color: #fff;
     padding: 1rem 0;
     text-align: center;
@@ -86,7 +94,14 @@ h1 {
 
 .about-description{
     text-align: left;
-    color: rgb(33, 31, 28)
+    color: rgb(122, 114, 102);
+    font-weight: bold;
+}
+
+.contact-description{
+    text-align: left;
+    color:rgb(122, 114, 102);
+    font-weight: bold;
 }
 
 footer {
