@@ -1,6 +1,6 @@
 html{
     font-family: montserrat;
-    color:rgb(117, 102, 84)
+    color:#816d63;
 }
 
 body {
@@ -10,7 +10,7 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    background-color: rgb(241, 223, 198);
+    background-color:#c9b5aa;
 }
 
 .main-title{
@@ -21,7 +21,7 @@ body {
 }
 
 header {
-    background-color: rgb(145, 129, 109);
+    background-color:#816d63;
     color: #fff;
     padding: 1rem 0;
     text-align: center;
@@ -90,7 +90,7 @@ h1 {
 }
 
 footer {
-    background-color:rgb(145, 129, 109);
+    background-color:#816d63;
     color: #fff;
     text-align: center;
     padding: 1rem 0;
